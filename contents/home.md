@@ -5,7 +5,7 @@
 He is currently a master's student at the School of Computer Science and Artificial Intelligence, Southwest Jiaotong University.
 
 #### Email
-lcx[at]my.swjtu.edu.cn
+lcx@my.swjtu.edu.cn
 
 #### Education
 M.E.,  Computer Science and Artificial Intelligence, Southwest Jiaotong University, 2023—2026 (expected).\
