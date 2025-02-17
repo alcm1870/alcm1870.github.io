@@ -1,16 +1,14 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![alcm1870](https://img.shields.io/badge/alcm1870-github-blue?logo=github)](https://github.com/alcm1870)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+He is currently a master's student at the School of Computer Science and Artificial Intelligence, Southwest Jiaotong University.
 
 #### Email
-sli[at]cumt.edu.cn
+lcx[at]my.swjtu.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.E.,  Computer Science and Artificial Intelligence, Southwest Jiaotong University, 2023—2026 (expected).\
 
-#### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+
 
